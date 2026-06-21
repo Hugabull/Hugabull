@@ -1,10 +1,14 @@
 ## About Me
+Hiya, I'm Marshall (They/Them), a Software Engineering student at the University of New Brunswick. I am currently seeking co-op opportunities for the upcoming fall semester.
 
-Hiya, I'm Marshall (They/Them), a Software Engineering student at the University of New Brunswick. I am currently looking for co-op opportunities for this upcoming fall semester.
-I have experience with Java, JavaScript, HTML, CSS, C, Python, and SQL. I also have a lot of work experience, such as a grade 12 web development co-op, 5 years worked in retail, and I have been working as a customer service representative for a financial institution for over a year.
+#### Experience
+I have experience with Java, JavaScript, HTML, CSS, C, Python, and SQL. I also have a lot of work experience, such as a grade 12 web development co-op, 5 years of work in retail, and I have been working as a customer service representative at a financial institution for over a year.
 
 #### Hobbies and interests
 I enjoy playing video games, exploring trails with my Onewheel, and spending time with my friends and family.
+
+#### Contact Info
+Feel free to reach me via LinkedIn or email me at Marshall.Dunn@unb.ca
 
 <!--
 **Hugabull/Hugabull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
