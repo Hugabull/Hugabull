@@ -1,5 +1,5 @@
 ## About Me
-Hiya, I'm Marshall (They/Them), a Software Engineering student at the University of New Brunswick. I am currently seeking co-op opportunities for the upcoming fall semester.
+Hiya, I'm Marshall (They/Them), a Software Engineering student at the University of New Brunswick. I am currently enrolled in a Co-op work term.
 
 #### Experience
 I have experience with Java, JavaScript, HTML, CSS, C, Python, and SQL. I also have a lot of work experience, such as a grade 12 web development co-op, 5 years of work in retail, and I have been working as a customer service representative at a financial institution for over a year.
